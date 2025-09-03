@@ -1,5 +1,6 @@
 <p align="center"><img src="logo_maiset.png" alt="Maiset" width="700"></p>
-# MAISET – Malaysian Association of Instrumentation, Science, Engineering and Technology
+
+## MAISET – Malaysian Association of Instrumentation, Science, Engineering and Technology
 
 Welcome to the official homepage of **MAISET**—a portal managed under the Department of Physics, Faculty of Science, Universiti Putra Malaysia.
 
